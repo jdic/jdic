@@ -5,7 +5,7 @@ Hi, I'm JMota, I started in the world of programming when I was 12 years old, no
 I'm currently studying mechatronics engineering, I hope to finish my degree and get a specialization.
 
 ## Languages
-Currently, I can perform fluently in Spanish (Native) and English (B2), I have been studying French for 6 months, I am also learning a little German, and I am interested in learning Italian as well.
+Currently, I can perform fluently in 🇲🇽 Spanish (Native) and 🇺🇸 English (B2), I have been studying 🇫🇷 French for 6 months, I am also learning a little 🇩🇪 German, and I am interested in learning 🇮🇹 Italian as well.
 
 ## Skills
 ### Web Dev
