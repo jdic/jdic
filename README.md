@@ -36,4 +36,4 @@ Currently, I can perform fluently in Spanish (Native) and English (B2), I have b
 ![Expressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-![Snake](https://github.com/jdic/jdic/blob/output/github-contribution-grid-snake2.svg)
+![Snake](https://github.com/jdic/jdic/dist/github-contribution-grid-snake.svg)
