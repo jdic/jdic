@@ -1,13 +1,16 @@
-# Hi, I'm JMota 🗿
-Hi, I'm JMota, I started in the world of programming when I was 12 years old, now I'm 18 years old, I have had professional experience in companies since I was in high school, since then I have worked in the world of software as a web developer, web designer, content manager and quality control.
+# Hi 🗿
+I started in the world of programming when I was 12 years old, now I'm 18 years old, I have had professional experience in companies since I was in high school, since then I have worked in the world of software as a Web Developer, Web Designer, Content Manager and Quality Assurance.
 
-## Academic
+## Academic 📚
 I'm currently studying mechatronics engineering, I hope to finish my degree and get a specialization.
 
-## Languages
-Currently, I can perform fluently in 🇲🇽 Spanish (Native) and 🇺🇸 English (B2), I have been studying 🇫🇷 French for 6 months, I am also learning a little 🇩🇪 German, and I am interested in learning 🇮🇹 Italian as well.
+## Languages 🗣
+**Spanish**: Native<br>
+**English**: B2<br>
+**French**: A2<br>
+**Italian**: A1
 
-## Skills
+## Skills ⚔️
 ### Web Dev
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,7 +27,6 @@ Currently, I can perform fluently in 🇲🇽 Spanish (Native) and 🇺🇸 Engl
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Workflow
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
