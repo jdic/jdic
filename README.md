@@ -39,4 +39,6 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ![Expressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdic&hide_progress=true)
+
 ![Snake](https://github.com/jdic/jdic/blob/output/github-contribution-grid-snake.svg)
