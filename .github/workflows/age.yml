@@ -9,7 +9,7 @@ jobs:
   update-age:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Calculate age
         id: calculate_age
@@ -19,7 +19,7 @@ jobs:
           age=$((current_year - birth_year))
           echo "age=$age" >> $GITHUB_OUTPUT
 
-      - name: Update README
+      - name: Update README with age minus 1
         run: |
           old_age=$(( {{ steps.calculate_age.outputs.age }} - 1 ))
           sed -i "s/<span>$old_age</span>/<span>{{ steps.calculate_age.outputs.age }}</span>/" README.md
