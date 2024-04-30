@@ -1,5 +1,5 @@
 # Hi 🗿
-I started in the world of programming when I was 12 years old, now I'm <span>18</span> years old, I have had professional experience in companies since I was in high school, since then I have worked in the world of software as a Web Developer, Web Designer, Content Manager and Quality Assurance.
+I started in the world of programming when I was 12 years old, now I'm <age>18<age> years old, I have had professional experience in companies since I was in high school, since then I have worked in the world of software as a Web Developer, Web Designer, Content Manager and Quality Assurance.
 
 ## Academic 📚
 I'm currently studying mechatronics engineering, I hope to finish my degree and get a specialization.
