@@ -19,7 +19,7 @@ jobs:
           age=$((current_year - birth_year))
           echo "age=$age" >> $GITHUB_OUTPUT
 
-      - name: Update README with age minus 1
+      - name: Update README
         run: |
           old_age=$(( {{ steps.calculate_age.outputs.age }} - 1 ))
           sed -i "s/<age>$old_age<age>/<age>{{ steps.calculate_age.outputs.age }}<age>/" README.md
