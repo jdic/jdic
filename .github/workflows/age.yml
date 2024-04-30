@@ -22,7 +22,8 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/<age>{{ steps.calculate_age.outputs.old_age }}<age>/<age>{{ steps.calculate_age.outputs.age }}<age>/" README.md
+          echo "{{ steps.calculate_age.outputs.old_age }}"
+          sed -i "s/{{ steps.calculate_age.outputs.old_age }}/<age>{{ steps.calculate_age.outputs.age }}<age>/" README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git commit -am "[CHORE] Update age in README"
