@@ -20,9 +20,12 @@ jobs:
           echo "age=$age" >> $GITHUB_OUTPUT
           echo "old_age=$(( age - 1 ))" >> $GITHUB_OUTPUT
 
-      - name: Update README
+      - name: Print the old_age variable
         run: |
           echo "{{ steps.calculate_age.outputs.old_age }}"
+
+      - name: Update README
+        run: |
           sed -i "s/{{ steps.calculate_age.outputs.old_age }}/<age>{{ steps.calculate_age.outputs.age }}<age>/" README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
