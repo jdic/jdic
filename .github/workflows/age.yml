@@ -25,7 +25,7 @@ jobs:
           AGE: ${{ steps.calculate_age.outputs.age }}
           OLD_AGE: ${{ steps.calculate_age.outputs.old_age }}
         run: |
-          sed -i "s/<span>$OLD_AGE<span>/<age>$AGE<age>/" README.md
+          sed -i "s/<age>$OLD_AGE<age>/<age>$AGE<age>/" README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git commit -am "[CHORE] Update age in README"
