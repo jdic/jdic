@@ -24,6 +24,7 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 ### Web Design
 ![Figma](https://skillicons.dev/icons?i=figma)
