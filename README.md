@@ -7,8 +7,8 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ## Languages 🗣
 **Spanish**: Native<br>
 **English**: B2<br>
-**French**: A2<br>
-**Portuguese**: A2<br>
+**French**: A1<br>
+**Portuguese**: A1<br>
 **Italian**: A1
 
 ## Skills ⚔️
