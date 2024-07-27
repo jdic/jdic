@@ -6,10 +6,8 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 
 ## Languages 🗣
 **Spanish**: Native<br>
-**English**: B2<br>
+**English**: B1 Tech<br>
 **French**: A1<br>
-**Portuguese**: A1<br>
-**Italian**: A1
 
 ## Skills ⚔️
 ### Dev
@@ -20,13 +18,10 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
 ![SASS](https://skillicons.dev/icons?i=sass)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 
-### Web Design
+### Design
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Xd](https://skillicons.dev/icons?i=xd)
 
@@ -41,13 +36,15 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Bun](https://skillicons.dev/icons?i=bun)
 
+### Physics Maths
+![P5JS](https://skillicons.dev/icons?i=p5js)
+
 ### Prototyping
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![RaspberryPI](https://skillicons.dev/icons?i=raspberrypi)
-![P5JS](https://skillicons.dev/icons?i=p5js)
 
-![Expressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdic&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-Icons: [https://skillicons.dev/](https://skillicons.dev/)
+> Icons: [https://skillicons.dev/](https://skillicons.dev/)
