@@ -1,4 +1,5 @@
 # Hi 🗿
+
 I started in the world of programming when I was 12 years old, now I'm <age>19<age> years old, I have had professional experience in companies since I was in high school, since then I have worked in the world of software as a Web Developer, Web Designer, Content Manager and Quality Assurance.
 
 ## Academic 📚
@@ -10,6 +11,7 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 **French**: A1<br>
 
 ## Skills ⚔️
+
 ### Dev
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
@@ -26,14 +28,11 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ![Xd](https://skillicons.dev/icons?i=xd)
 
 ### Workflow
-![Arch Linux](https://skillicons.dev/icons?i=arch)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![macOS](https://skillicons.dev/icons?i=apple)
-![Jira](https://skillicons.dev/icons?i=githubactions)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Gulp](https://skillicons.dev/icons?i=gulp)
-![Notion](https://skillicons.dev/icons?i=notion)
 ![Bun](https://skillicons.dev/icons?i=bun)
 
 ### Physics Maths
