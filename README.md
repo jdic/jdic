@@ -13,36 +13,30 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 ## Skills ⚔️
 
 ### Dev
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Shell](https://skillicons.dev/icons?i=bash)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
-![SASS](https://skillicons.dev/icons?i=sass)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![C++](https://skillicons.dev/icons?i=cpp)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Shell](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
 
 ### Design
-![Figma](https://skillicons.dev/icons?i=figma)
-![Xd](https://skillicons.dev/icons?i=xd)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ### Workflow
-![Linux](https://skillicons.dev/icons?i=linux)
-![macOS](https://skillicons.dev/icons?i=apple)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Bun](https://skillicons.dev/icons?i=bun)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![macOS](https://skillicons.dev/icons?i=apple)](https://www.apple.com/macos/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
 
-### Physics Maths
-![P5JS](https://skillicons.dev/icons?i=p5js)
-
-### Prototyping
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![RaspberryPI](https://skillicons.dev/icons?i=raspberrypi)
-
-![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### Prototyping and IoT
+[![RaspberryPI](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
