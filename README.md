@@ -23,6 +23,9 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
 [![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+[![Next.JS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 
 ### Design
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
@@ -34,9 +37,17 @@ I'm currently studying mechatronics engineering, I hope to finish my degree and 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
+[![PNPm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/)
 
-### Prototyping and IoT
-[![RaspberryPI](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+### Prototyping, Enginnering and IoT
+[![Raspberry PI](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Processing](https://skillicons.dev/icons?i=processing)](https://processing.org/)
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
+[![LabVIEW](/resources/icons/LabVIEW.svg)](https://www.ni.com/labview)
+[![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![Autocad](https://skillicons.dev/icons?i=autocad)](https://www.autodesk.com/products/autocad/overview)
+[![KiCad](/resources/icons/KiCAD.svg)](https://www.kicad.org/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
