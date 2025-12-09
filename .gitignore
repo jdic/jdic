@@ -1,0 +1,7 @@
+# SSH Private keys
+**/id_*
+!**/id_*.pub
+
+# OS Generated Files
+.DS_Store
+._*
